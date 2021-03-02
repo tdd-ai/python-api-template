@@ -1,6 +1,6 @@
-# Julia API Template - Simple Tokenizer
+# Python API Template - Simple Tokenizer
 
-This repo contains an example of an API of [SimpleTokenizer.jl](https://github.com/tdd-ai/SimpleTokenizer.jl) in Julia.
+This repo contains an example of an API of [simple-tokenizer](https://github.com/tdd-ai/simple-tokenizer) in Python.
 
 The following project structure is recommended :
 
